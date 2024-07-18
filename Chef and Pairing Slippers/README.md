@@ -2,7 +2,7 @@
 # CodeChef coding Q21
 
 
-Chef and Pairing Slippers
+## Chef and Pairing Slippers
 
 
 Chef has 
@@ -13,7 +13,7 @@ If each pair of slippers cost
 𝑋
 rupees, what is the maximum amount of rupees that Chef can get for these slippers?
 
-Input Format:
+### Input Format:
 
 The first line contains 
 𝑇- the number of test cases. Then the test cases follow.
@@ -22,11 +22,11 @@ The first line of each test case contains three space-separated integers
 𝐿, and 
 𝑋- the total number of slippers, the number of left slippers, and the price of a pair of slippers in rupees.
 
-Output Format:
+### Output Format:
 
 For each test case, output on one line the maximum amount of rupees that Chef can get by selling the slippers that are available.
 
-Constraints:
+### Constraints:
 1
 ≤
 𝑇
