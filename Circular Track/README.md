@@ -1,7 +1,7 @@
 
 # CodeChef coding Q16
 
-Circular Track
+## Circular Track
 
 There is a circular track of length 
 𝑀
@@ -18,7 +18,7 @@ Chef is currently at checkpoint
 and wants to reach checkpoint 
 𝐵. Find the minimum length of the road he needs to travel.
 
-Input Format:
+### Input Format:
 
 First line will contain 
 𝑇, the number of test cases. Then the test cases follow.
@@ -29,11 +29,11 @@ Each test case contains a single line of input, three integers
 and 
 𝑀 - the initial checkpoint, the final checkpoint, and the total number of checkpoints respectively.
 
-Output Format:
+### Output Format:
 
 For each test case, output the minimum length Chef needs to travel.
 
-Constraints:
+### Constraints:
 1
 ≤
 𝑇
