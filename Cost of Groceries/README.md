@@ -1,7 +1,8 @@
 
 # CodeChef coding Q17
 
-Cost of Groceries
+
+## Cost of Groceries
 
 Chef visited a grocery store for fresh supplies. There are 
 𝑁 items in the store where the 
@@ -14,7 +15,7 @@ and cost
 Chef has decided to purchase all the items having a freshness value greater than equal to 
 𝑋. Find the total cost of the groceries Chef buys.
 
-Input Format:
+### Input Format:
 
 The first line of input will contain a single integer 
 𝑇, denoting the number of test cases.
@@ -33,11 +34,11 @@ Each test case consists of multiple lines of input.
 𝑁 space-separated integers, the array 
 𝐵, denoting the cost of each item.
 
-Output Format:
+### Output Format:
 
 For each test case, output on a new line, the total cost of the groceries Chef buys.
 
-Constraints:
+### Constraints:
 1
 ≤
 𝑇
