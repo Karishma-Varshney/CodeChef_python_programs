@@ -1,7 +1,7 @@
 
 # CodeChef coding Q13
 
-Cricket Ranking
+## Cricket Ranking
 
 In a season, each player has three statistics: runs, wickets, and catches. Given the season stats of two players 
 𝐴
@@ -14,7 +14,7 @@ and
 and 
 𝐵. It is known that in each statistic, the players have different values.
 
-Input Format:
+### Input Format:
 
 The first line contains an integer 
 𝑇, the number of test cases. Then the test cases follow.
@@ -38,14 +38,14 @@ The second line contains three integers
 𝐶2, the stats for player 
 𝐵.
 
-Output Format:
+### Output Format:
 
 For each test case, output in a single line "A" (without quotes) if player 
 𝐴
 is better than player 
 𝐵 and "B" (without quotes) otherwise.
 
-Constraints:
+### Constraints:
 1
 ≤
 𝑇
