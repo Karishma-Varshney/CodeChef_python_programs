@@ -1,5 +1,5 @@
 
-# CodeChef coding Q11
+# CodeChef Coding Q11
 
 ## ICE CREAM
 
