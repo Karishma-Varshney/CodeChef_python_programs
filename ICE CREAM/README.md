@@ -1,7 +1,7 @@
 
 # CodeChef coding Q11
 
-ICE CREAM
+## ICE CREAM
 
 Chef wants to buy 
 2
@@ -14,7 +14,7 @@ However, he only has
 2
 ice creams?
 
-Input Format:
+### Input Format:
 
 The only line of input will contain 
 2
@@ -24,13 +24,13 @@ and
 𝑌
 , the price of each ice cream and the money Chef has.
 
-Output Format:
+### Output Format:
 
 Print YES if Chef will be able to buy two ice creams, otherwise print NO.
 
 You may print each character of the string in uppercase or lowercase (for example, the strings YES, yEs, yes, and yeS will all be treated as identical).
 
-Constraints:
+### Constraints:
 1
 ≤
 𝑋
