@@ -1,7 +1,7 @@
 
 # CodeChef coding Q9
 
-Reach 5 Star
+## Reach 5 Star
 
 Chef loves giving contests on Codechef. Chef wants to become 
 5
@@ -20,13 +20,13 @@ Chef will be considered
 5 star rated if his rating is greater than or equal to 
 2000.
 
-Input Format:
+### Input Format:
 
 The first line contains two space-separated integers 
 𝑋 and 
 𝑌 — chef's initial rating and the amount by which his rating will increase, respectively.
 
-Output Format:
+### Output Format:
 
 Output YES if chef will become 
 5
@@ -34,7 +34,7 @@ star rated, and NO otherwise.
 
 You may print each character of the string in uppercase or lowercase (for example, the strings YES, yEs, yes, and yeS will all be treated as identical).
 
-Constraints:
+### Constraints:
 0
 ≤
 𝑋
