@@ -1,7 +1,7 @@
 
 # CodeChef coding Q10
 
-Remaining Neighborhoods
+## Remaining Neighborhoods
 
 As elections approach the country of Chefland, Chef's campaign is in full swing.
 
@@ -14,16 +14,16 @@ of them to canvass for votes, and he won't stop till he's visited every last one
 
 How many more neighborhoods does Chef need to visit?
 
-Input Format:
+### Input Format:
 
 The only line of input will contain a single integer 
 𝑁, the number of neighborhoods Chef has already visited.
 
-Output Format:
+### Output Format:
 
 Print a single integer: the number of neighborhoods Chef still needs to visit.
 
-Constraints:
+### Constraints:
 0
 ≤
 𝑁
