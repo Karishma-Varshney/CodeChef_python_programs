@@ -1,7 +1,7 @@
 
 # CodeChef coding Q18
 
-Television Channels
+## Television Channels
 
 You have a television which had 
 𝑋 working channels numbered 
@@ -31,16 +31,16 @@ and
 Given 
 𝑋, can you tell how many channels are still working?
 
-Input Format:
+### Input Format:
 
 The first and only line of input contains a single integer 
 𝑋.
 
-Output Format:
+### Output Format:
 
 Output the number of working channels.
 
-Constraints: 
+### Constraints: 
 1
 ≤
 𝑋
