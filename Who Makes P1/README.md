@@ -1,6 +1,6 @@
 
 # CodeChef coding Q2
-Who Makes P1
+## Who Makes P1
 
 Tyro and Dom are fighting over who makes the first problem of the contest. Both of them are very lazy so they don't want to make it.
 
@@ -17,20 +17,20 @@ Given the values of
 𝐴 and 
 𝐵, find out who will end up making the problem.
 
-Input Format:
+### Input Format:
 
 The first and only line of input contains 
 2 integers, 
 𝐴 and 
 𝐵- Tyro's patience level, and the number of times Dom tries to convince Tyro respectively.
 
-Output Format:
+### Output Format:
 
 For each test case, output on a new line, Dom or Tyro corresponding to who ends up making the problem.
 
 You can print each character in uppercase or lowercase. For example, the strings DOM, dom, Dom, and dOM are considered identical.
 
-Constraints:
+### Constraints:
 1
 ≤
 𝐴
