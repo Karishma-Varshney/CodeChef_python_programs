@@ -1,1 +1,1 @@
-# code chef daily questions
+# Code Chef Daily Questions
