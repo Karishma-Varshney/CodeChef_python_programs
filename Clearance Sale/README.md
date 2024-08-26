@@ -1,3 +1,6 @@
+# CodeChef Q28
+
+
 ## Clearance Sale
 Chef's favorite clothing store is holding a clearance sale: for every 
 2 t-shirts bought, you receive a third one for free!
