@@ -1,4 +1,4 @@
-# CodeChef Q28
+# CodeChef coding Q28
 
 
 ## Clearance Sale
