@@ -10,6 +10,7 @@ Each ticket costs
 ### Input Format
 The first and only line of input contains 
 N — the number of friends you have.
+
 ### Output Format
 For each test case, output on a new line the total cost of all tickets for yourself and your friends.
 
