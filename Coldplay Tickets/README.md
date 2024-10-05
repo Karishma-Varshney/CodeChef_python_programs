@@ -21,6 +21,7 @@ N
 ≤
 5
 
-​## 🚀 About Me
+## 🚀 About Me
 
 - [@Karishma Varshney](https://github.com/Karishma-Varshney)
+
