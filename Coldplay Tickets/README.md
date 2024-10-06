@@ -1,4 +1,4 @@
-# CodeChef coding Q33
+# CodeChef Coding Q33
 
 ## Coldplay Tickets
 You want to go to the Coldplay concert along with 
