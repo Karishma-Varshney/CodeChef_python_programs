@@ -1,4 +1,4 @@
-# Code Chef Daily Questions
+# Code Chef Questions
 
 ## 🚀 About Me
 
