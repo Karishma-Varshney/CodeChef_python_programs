@@ -4,7 +4,7 @@
 Alice and Bob both bought a full cake each.
 Alice's cake has 
 A slices, and Bob's cake has 
-B slices.
+B slices
 
 Alice will be unhappy if she has strictly less slices than Bob does. Similarly, Bob will be unhappy if he has strictly less slices than Alice does.
 
