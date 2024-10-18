@@ -13,7 +13,7 @@ Output Yes, if the Chef will be released on parole, and No otherwise.
 
 You may print each character of the string in uppercase or lowercase (for example, the strings YES, yEs, yes, and yeS will all be treated as identical).
 
-### Constraint
+### Constraints
 1
 ≤
 X
