@@ -20,7 +20,7 @@ Y
 For each test case, output on a new line one integer: the maximum amount of money which Chef can accumulate after 
 Y years.
 
-### Constraints
+### Constraint
 1
 ≤
 T
