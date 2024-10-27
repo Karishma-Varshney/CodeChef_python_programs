@@ -1,6 +1,6 @@
 # CodeChef coding Q38
 
-## Glass Prices
+## Glass Price
 Chef is buying spectacles, and is now deciding on which frame to purchase.
 
 Chef has narrowed his options down to two choices: a plastic frame that costs 
