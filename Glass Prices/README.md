@@ -1,4 +1,4 @@
-# CodeChef coding Q38
+# CodeChef Coding Q38
 
 ## Glass Prices
 Chef is buying spectacles, and is now deciding on which frame to purchase.
